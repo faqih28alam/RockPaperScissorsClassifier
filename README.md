@@ -7,7 +7,8 @@ The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonst
 **Dataset:** [Kaggle - Rock Paper Scissors](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors)
 
 
-![Dataset Preview](\src\Images\datasetPreview.png)
+![Dataset Preview](https://github.com/faqih28alam/RockPaperScissorsClassifier/blob/main/src/Images/datasetPreview.png)
+
 
 
 ---
