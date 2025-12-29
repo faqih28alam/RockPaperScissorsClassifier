@@ -6,6 +6,10 @@ The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonst
 
 **Dataset:** [Kaggle - Rock Paper Scissors](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors)
 
+
+![Dataset Preview](\src\Images\datasetPreview.png)
+
+
 ---
 
 ## 🚀 Key Features
@@ -28,7 +32,7 @@ my_ml_project/
 │   ├── raw/                # Original, immutable data
 │   └── processed/          # Data after cleaning/augmentation
 ├── models/                 # Serialized models (.h5 or .keras format)
-│   └── rps_model.h5        
+│   └── rps_model.keras       
 ├── notebooks/              # Research & Development
 │   └── training_v1.ipynb   # Model architecture and training logs
 ├── src/                    # Reusable Logic
@@ -53,4 +57,7 @@ my_ml_project/
 ```
 
 ## 👨🏻‍💻 On Progress (Note for Me) 🚧 ✔
-* Build Model: Import Dataset 🚧
+* Build Model: Import Dataset ✔
+* Build Model: Get/Save the Model ✔
+* Build Model: Evaluate Model on Validation Data 🚧
+* demo.gif: A 5-second recording of you playing against the AI. 🚧

@@ -1,0 +1,6 @@
+kagglehub
+tensorflow
+os
+matplotlib
+sklearn
+pandas
