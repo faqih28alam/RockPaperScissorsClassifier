@@ -2,5 +2,6 @@ kagglehub
 tensorflow
 os
 matplotlib
-sklearn
+scikit-learn
 pandas
+pillow

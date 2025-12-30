@@ -26,13 +26,10 @@ The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonst
 
 
 ```text
-my_ml_project/
+RockPaperScissorsClassifier/
 ├── .streamlit/             # Streamlit configuration & theme settings
-├── data/                   # Dataset storage
-│   ├── raw/                # Original, immutable data
-│   └── processed/          # Data after cleaning/augmentation
 ├── models/                 # Serialized models (.h5 or .keras format)
-│   └── rps_model.keras       
+│   └── rps_model_v1.keras       
 ├── notebooks/              # Research & Development
 │   └── training_v1.ipynb   # Model architecture and training logs
 ├── src/                    # Reusable Logic
@@ -60,4 +57,7 @@ my_ml_project/
 * Build Model: Import Dataset ✔
 * Build Model: Get/Save the Model ✔
 * Build Model: Evaluate Model on Validation Data 🚧
+* Test Model: Test Predict New Data 🚧
+* Build Streamlit: Create UI for Deploy the Model 🚧
+* Deploy Streamlit: Make it access to public 🚧
 * demo.gif: A 5-second recording of you playing against the AI. 🚧
