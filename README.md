@@ -26,7 +26,7 @@ The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonst
 
 **Confusion Matrix**:
 
-![Confusion Matrix](https://github.com/faqih28alam/RockPaperScissorsClassifier/blob/main/src/Images/Confusion Matrix Result.png)
+![Confusion Matrix](https://github.com/faqih28alam/RockPaperScissorsClassifier/blob/main/src/Images/Confusion%20Matrix%20Result.png)
 
 ```text
               precision    recall  f1-score   support
