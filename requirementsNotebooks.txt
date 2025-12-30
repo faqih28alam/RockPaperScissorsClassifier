@@ -1,0 +1,11 @@
+kagglehub
+tensorflow
+matplotlib
+scikit-learn
+pandas
+pillow
+seaborn
+numpy
+streamlit
+streamlit-webrtc
+opencv-python-headless
