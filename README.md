@@ -22,6 +22,26 @@ The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonst
 
 ---
 
+## Model Result
+
+**Confusion Matrix**:
+
+![Confusion Matrix](https://github.com/faqih28alam/RockPaperScissorsClassifier/blob/main/src/Images/Confusion Matrix Result.png)
+
+```text
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       145
+           1       0.97      1.00      0.99       143
+           2       1.00      0.97      0.98       150
+
+    accuracy                           0.99       438
+   macro avg       0.99      0.99      0.99       438
+weighted avg       0.99      0.99      0.99       438
+```
+
+---
+
 ## 📂 Project Structure
 
 
@@ -57,8 +77,8 @@ RockPaperScissorsClassifier/
 ## 👨🏻‍💻 On Progress (Note for Me) 🚧 ✔
 * Build Model: Import Dataset ✔
 * Build Model: Get/Save the Model ✔
-* Build Model: Evaluate Model on Validation Data 🚧
-* Test Model: Test Predict New Data 🚧
+* Build Model: Evaluate Model on Validation Data ✔
+* Test Model: Test Predict New Data ✔
 * Build Streamlit: Create UI for Deploy the Model 🚧
 * Deploy Streamlit: Make it access to public 🚧
 * demo.gif: A 5-second recording of you playing against the AI. 🚧
