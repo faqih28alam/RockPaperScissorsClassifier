@@ -1,6 +1,6 @@
 # ✊🤚✌️ Rock Paper Scissors Classifier - Portfolio Project
 
-Check out the [Live Website](https://faqihalam.vercel.app/) for a preview.
+Check out the [Live Website](https://rockpapersciapprsclassifier-8tfms7raghjzd586z58bqq.streamlit.app/) for a preview.
 
 The Rock-Paper-Scissors (RPS) project is a comprehensive portfolio piece demonstrating the end-to-end Machine Learning lifecycle—from data preprocessing and training to a live web deployment.
 
