@@ -1,6 +1,5 @@
 kagglehub
 tensorflow
-os
 matplotlib
 scikit-learn
 pandas
