@@ -73,6 +73,8 @@ RockPaperScissorsClassifier/
 - pip install -r requirements.txt   # Install Dependencies
 - streamlit run app.py              # Run the App
 - deactivate                        # Deactivate environment on Powershell
+- python pages/03_real_time.py      # to run localy realtime prediction
+- streamlit run app.py              # to run streamlit
 ```
 
 ## 👨🏻‍💻 On Progress (Note for Me) 🚧 ✔
@@ -80,7 +82,7 @@ RockPaperScissorsClassifier/
 * Build Model: Get/Save the Model ✔
 * Build Model: Evaluate Model on Validation Data ✔
 * Test Model: Test Predict New Data ✔
-* Build Realtime Prediction 🚧
-* Build Streamlit: Create UI for Deploy the Model 🚧
+* Build Realtime Prediction ✔
+* Build Streamlit: Create UI for Deploy the Model ✔
 * Deploy Streamlit: Make it access to public 🚧
 * demo.gif: A 5-second recording of you playing against the AI. 🚧
