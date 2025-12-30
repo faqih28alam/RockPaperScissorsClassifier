@@ -58,7 +58,8 @@ RockPaperScissorsClassifier/
 │   └── model_utils.py      # Prediction and confidence score logic
 ├── pages/                  # Multi-page App (optional)
 │   ├── 01_Analytics.py     # Model performance metrics
-│   └── 02_About.py         # Project methodology
+│   ├── 02_About.py         # Project methodology
+│   └──03_real_time.py      # Real Time Prediction
 ├── app.py                  # MAIN ENTRY POINT for Streamlit
 ├── requirements.txt        # Production dependencies
 └── .gitignore              # Files to ignore (e.g., .venv/, __pycache__/)
@@ -79,6 +80,7 @@ RockPaperScissorsClassifier/
 * Build Model: Get/Save the Model ✔
 * Build Model: Evaluate Model on Validation Data ✔
 * Test Model: Test Predict New Data ✔
+* Build Realtime Prediction 🚧
 * Build Streamlit: Create UI for Deploy the Model 🚧
 * Deploy Streamlit: Make it access to public 🚧
 * demo.gif: A 5-second recording of you playing against the AI. 🚧
